@@ -23,4 +23,5 @@ Hibernate is used to simplify database interaction by mapping Java classes to da
 
 ###OUTPUT:
 
-![Uploading image.png…]()
+<img width="580" height="333" alt="image" src="https://github.com/user-attachments/assets/11aeec82-3327-4eaf-aea1-25ae6e1448d4" />
+
